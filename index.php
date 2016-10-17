@@ -15,4 +15,5 @@
 </form>
 
 <input type="text" value="OK" />
+<input type="text" value="OK2" />
 </html>
