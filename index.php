@@ -10,4 +10,6 @@
 <form>
 
 </form>
+
+<input type="text" value="OK" />
 </html>
